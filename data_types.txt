@@ -1,0 +1,9 @@
+enum: reference type / heap
+
+struct: value type / stack
+
+record: reference type / heap
+
+tuple: reference type / heap
+
+
